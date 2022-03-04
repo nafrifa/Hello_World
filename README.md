@@ -2,6 +2,6 @@ My name is Nana Afrifa. I am a student at the University of Iowa studying Busine
 # a. **Project Title**
 # b. **Description**
 # c. How to Run Program 😂
-# d. Files Used
+# d. Files Used ✈️
 # e. *Additional Documentation*
 ### f. Version Summary
